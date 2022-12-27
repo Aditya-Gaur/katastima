@@ -39,7 +39,31 @@
       <img src="https://user-images.githubusercontent.com/75514601/209642192-97d027db-db77-496b-8f68-0f1d8452d819.gif" alt="6" align="center" width="35%"/>
       <img src="https://user-images.githubusercontent.com/75514601/209642212-ec8ba881-2a1b-49dd-a29b-a5a65786cc31.gif" alt="5" align="center" width="35%"/>
       </p>
-
+      
+      <p float="left" align="middle">
+      <img src="https://user-images.githubusercontent.com/75514601/209649107-aa61a628-5d25-42e8-bb72-def187f9c88c.gif" alt="26" align="center" width="35%"/>
+      <img src="https://user-images.githubusercontent.com/75514601/209649028-f849c6d7-a2d5-46fc-b6be-d2b71083190f.gif" alt="24" align="center" width="35%"/>
+      </p>
+      
+      <p float="left" align="middle">
+      <img src="https://user-images.githubusercontent.com/75514601/209649163-5c2d822a-bf76-4c86-9238-d566fcd8de9f.gif" alt="22" align="center" width="35%"/>
+      <img src="https://user-images.githubusercontent.com/75514601/209649174-ab1fecca-c5a4-4ab2-a515-7147311f5dd4.gif" alt="16" align="center" width="35%"/>
+      </p>
+      
+      <p float="left" align="middle">
+      <img src="https://user-images.githubusercontent.com/75514601/209649181-ef7d68f4-0e52-45fe-a204-66aa8d4101be.gif" alt="17" align="center" width="35%"/>
+      <img src="https://user-images.githubusercontent.com/75514601/209649184-09f5882d-2eef-46ed-a7fa-0ec3e03b450d.gif" alt="18" align="center" width="35%"/>
+      </p>
+      
+      <p float="left" align="middle">
+      <img src="https://user-images.githubusercontent.com/75514601/209649208-a1f33588-d7a2-4b67-bbed-538773063274.gif" alt="20" align="center" width="35%"/>
+      <img src="https://user-images.githubusercontent.com/75514601/209649232-76098598-ebb0-4681-bc2a-d3342a06fe1d.gif" alt="15" align="center" width="35%"/>
+      </p>
+      
+      <p float="left" align="middle">
+      <img src="https://user-images.githubusercontent.com/75514601/209649002-d1f686be-8cfa-490b-b458-9976b882c94b.gif" alt="23" align="center" width="35%"/>
+      <img src="https://user-images.githubusercontent.com/75514601/209649157-744ba8bf-679a-4480-9cf3-a85c39cee2a6.gif" alt="21" align="center" width="35%"/>
+      </p>
       
   </details>
   </div>
