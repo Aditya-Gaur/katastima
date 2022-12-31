@@ -1,5 +1,8 @@
 <div align="center">
     <h1>Katastima</h1>
+    <a href="https://github.com/Aditya-Gaur/katastima/stargazers"><img src="https://img.shields.io/github/stars/Aditya-Gaur/katastima?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/Aditya-Gaur/katastima/issues"><img src="https://img.shields.io/github/issues/Aditya-Gaur/katastima?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/Aditya-Gaur/katastima/contributors"><img src="https://img.shields.io/github/contributors/Aditya-Gaur/katastima?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
     <p>
         Collection of media resources including but not limited to:<br />
         Abstract gifs, Profile Pics, Anime art<br/> 
