@@ -6,7 +6,7 @@
     <p>
         Collection of media resources including but not limited to:<br />
         Abstract gifs, Profile Pics, Anime art<br/> 
-        Format: idk
+        <b>Format:</b> idk
    </div>
 
 <br/>
